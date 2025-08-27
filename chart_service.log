@@ -1,0 +1,47 @@
+2025-08-27 11:08:19,290 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.8.92:5002
+2025-08-27 11:08:19,290 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 11:08:45,634 - __main__ - INFO - Generating charts for ticker NVDA -> NASDAQ:NVDA
+2025-08-27 11:08:45,634 - __main__ - INFO - Generating v1 1h chart for NASDAQ:NVDA
+2025-08-27 11:08:50,740 - __main__ - INFO - Successfully generated v1 1h chart
+2025-08-27 11:08:50,743 - __main__ - INFO - Generating v2 1D chart for NASDAQ:NVDA with 90 bars
+2025-08-27 11:09:00,818 - __main__ - INFO - Successfully generated v2 1D chart
+2025-08-27 11:09:00,821 - __main__ - INFO - Generating v2 1W chart for NASDAQ:NVDA with 52 bars
+2025-08-27 11:09:06,984 - __main__ - INFO - Successfully generated v2 1W chart
+2025-08-27 11:09:06,989 - __main__ - INFO - Chart generation complete. Success: 3/3. Summary: /Users/abdulaziznahas/chart-img-outputs/NVDA_summary_20250827_110906.json
+2025-08-27 11:09:06,999 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 11:09:06] "GET /test/NVDA HTTP/1.1" 200 -
+2025-08-27 11:11:05,410 - __main__ - INFO - Generating charts for ticker GLD -> AMEX:GLD
+2025-08-27 11:11:05,410 - __main__ - INFO - Generating v1 1h chart for AMEX:GLD
+2025-08-27 11:11:09,700 - __main__ - INFO - Successfully generated v1 1h chart
+2025-08-27 11:11:09,702 - __main__ - INFO - Generating v2 1D chart for AMEX:GLD with 90 bars
+2025-08-27 11:11:35,074 - __main__ - INFO - Successfully generated v2 1D chart
+2025-08-27 11:11:35,077 - __main__ - INFO - Generating v2 1W chart for AMEX:GLD with 52 bars
+2025-08-27 11:11:40,591 - __main__ - INFO - Successfully generated v2 1W chart
+2025-08-27 11:11:40,596 - __main__ - INFO - Chart generation complete. Success: 3/3. Summary: /Users/abdulaziznahas/chart-img-outputs/GLD_summary_20250827_111140.json
+2025-08-27 11:11:40,602 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 11:11:40] "GET /test/GLD HTTP/1.1" 200 -
+2025-08-27 11:12:45,445 - __main__ - WARNING - Unknown ticker LCID, defaulting to NASDAQ
+2025-08-27 11:12:45,445 - __main__ - INFO - Generating charts for ticker LCID -> NASDAQ:LCID
+2025-08-27 11:12:45,445 - __main__ - INFO - Generating v1 1h chart for NASDAQ:LCID
+2025-08-27 11:12:49,789 - __main__ - INFO - Successfully generated v1 1h chart
+2025-08-27 11:12:49,792 - __main__ - INFO - Generating v2 1D chart for NASDAQ:LCID with 90 bars
+2025-08-27 11:12:55,716 - __main__ - INFO - Successfully generated v2 1D chart
+2025-08-27 11:12:55,719 - __main__ - INFO - Generating v2 1W chart for NASDAQ:LCID with 52 bars
+2025-08-27 11:13:01,109 - __main__ - INFO - Successfully generated v2 1W chart
+2025-08-27 11:13:01,113 - __main__ - INFO - Chart generation complete. Success: 3/3. Summary: /Users/abdulaziznahas/chart-img-outputs/LCID_summary_20250827_111301.json
+2025-08-27 11:13:01,122 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 11:13:01] "GET /test/LCID HTTP/1.1" 200 -
+2025-08-27 11:29:38,780 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.8.92:5002
+2025-08-27 11:29:38,780 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-27 11:30:06,943 - __main__ - INFO - Generating charts for ticker GLD -> AMEX:GLD
+2025-08-27 11:30:06,944 - __main__ - INFO - Generating v2 1h chart for AMEX:GLD with 168 bars
+2025-08-27 11:30:13,104 - __main__ - INFO - Successfully generated v2 1h chart
+2025-08-27 11:30:13,107 - __main__ - INFO - Generating v2 1D chart for AMEX:GLD with 90 bars
+2025-08-27 11:30:19,983 - __main__ - INFO - Successfully generated v2 1D chart
+2025-08-27 11:30:19,986 - __main__ - INFO - Generating v2 1W chart for AMEX:GLD with 52 bars
+2025-08-27 11:30:25,878 - __main__ - INFO - Successfully generated v2 1W chart
+2025-08-27 11:30:25,882 - __main__ - INFO - Chart generation complete. Success: 3/3. Summary: /Users/abdulaziznahas/chart-img-outputs/GLD_summary_20250827_113025.json
+2025-08-27 11:30:25,894 - werkzeug - INFO - 127.0.0.1 - - [27/Aug/2025 11:30:25] "GET /test/GLD HTTP/1.1" 200 -
